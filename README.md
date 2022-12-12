@@ -1,4 +1,4 @@
-# Titanic_Miniprojekt_KI
+# :ship: Titanic_Miniprojekt_KI :ship:
 
 Datensatz: Titanic
 
